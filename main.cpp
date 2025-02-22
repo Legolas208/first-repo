@@ -1,2 +1,5 @@
 #include "Warrior.h"
-int mainfunc() {}
+int main()
+ {
+    // Main Function
+ }
